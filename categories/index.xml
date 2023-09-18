@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 所读，所看，所思</title>
+    <title>Categories on 飘飘白云：所读，所观，所思</title>
     <link>https://floatingcloud1983.github.io/categories/</link>
-    <description>Recent content in Categories on 所读，所看，所思</description>
+    <description>Recent content in Categories on 飘飘白云：所读，所观，所思</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://floatingcloud1983.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://floatingcloud1983.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Development</title>
-      <link>https://floatingcloud1983.github.io/categories/development/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <title>阅读</title>
+      <link>https://floatingcloud1983.github.io/categories/%E9%98%85%E8%AF%BB/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://floatingcloud1983.github.io/categories/development/</guid>
+      <guid>https://floatingcloud1983.github.io/categories/%E9%98%85%E8%AF%BB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
       <link>https://floatingcloud1983.github.io/categories/docs/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
       
       <guid>https://floatingcloud1983.github.io/categories/docs/</guid>
       <description></description>
@@ -28,72 +28,18 @@
     <item>
       <title>index</title>
       <link>https://floatingcloud1983.github.io/categories/index/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
       
       <guid>https://floatingcloud1983.github.io/categories/index/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://floatingcloud1983.github.io/categories/golang/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://floatingcloud1983.github.io/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>demo</title>
-      <link>https://floatingcloud1983.github.io/categories/demo/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://floatingcloud1983.github.io/categories/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://floatingcloud1983.github.io/categories/math/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://floatingcloud1983.github.io/categories/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>shortcodes</title>
       <link>https://floatingcloud1983.github.io/categories/shortcodes/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
       
       <guid>https://floatingcloud1983.github.io/categories/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://floatingcloud1983.github.io/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://floatingcloud1983.github.io/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://floatingcloud1983.github.io/categories/test/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://floatingcloud1983.github.io/categories/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://floatingcloud1983.github.io/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>https://floatingcloud1983.github.io/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     
