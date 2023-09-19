@@ -18,15 +18,5 @@
 &lt;p&gt;在本例中，使用 QuickSynergy 作为客户端和服务器，作为服务器的机器安装 Ubuntu 系统，客户端机器安装 Mac 系统。&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Subline Text 2 安装 Markdown 插件</title>
-      <link>https://floatingcloud1983.github.io/post/2014/2014-10-05-subline-text2-markdown/</link>
-      <pubDate>Sun, 05 Oct 2014 22:35:02 +0800</pubDate>
-      
-      <guid>https://floatingcloud1983.github.io/post/2014/2014-10-05-subline-text2-markdown/</guid>
-      <description>&lt;p&gt;##简介
-本文介绍如何在 Subline Text 2 中安装 Markdown 插件。&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
