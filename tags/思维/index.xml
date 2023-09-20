@@ -6,72 +6,7 @@
     <description>Recent content in 思维 on 飘飘白云：所读，所观，所思</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Oct 2014 19:35:52 +0800</lastBuildDate><atom:link href="https://floatingcloud1983.github.io/tags/%E6%80%9D%E7%BB%B4/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>从贝叶斯定理说开去</title>
-      <link>https://floatingcloud1983.github.io/post/2014/2014-10-21-bayes-rule/</link>
-      <pubDate>Tue, 21 Oct 2014 19:35:52 +0800</pubDate>
-      
-      <guid>https://floatingcloud1983.github.io/post/2014/2014-10-21-bayes-rule/</guid>
-      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
-&lt;p&gt;贝叶斯定理是18世纪英国数学家&lt;a href=&#34;http://en.wikipedia.org/wiki/Thomas_Bayes&#34;&gt;托马斯·贝叶斯（Thomas Bayes）&lt;/a&gt;提出得重要概率论理论。以下摘一段 wikipedia 上的简介：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;所谓的贝叶斯定理源于他生前为解决一个“逆概”问题写的一篇文章，而这篇文章是在他死后才由他的一位朋友发表出来的。在贝叶斯写这篇文章之前，人们已经能够计算“正向概率”，如“假设袋子里面有 N 个白球，M 个黑球，你伸手进去摸一把，摸出黑球的概率是多大”。而一个自然而然的问题是反过来：“如果我们事先并不知道袋子里面黑白球的比例，而是闭着眼睛摸出一个（或好几个）球，观察这些取出来的球的颜色之后，那么我们可以就此对袋子里面的黑白球的比例作出什么样的推测”。这个问题，就是所谓的逆向概率问题。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;贝叶斯定理的思想出现在18世纪，但真正大规模派上用途还得等到计算机的出现。因为这个定理需要大规模的数据计算推理才能凸显效果，它在很多计算机应用领域中都大有作为，如自然语言拼写检查，机器学习，推荐系统，图像识别，博弈论等等。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>学会提问：批判性思维指南</title>
-      <link>https://floatingcloud1983.github.io/post/2014/2014-10-12-critical-thinking/</link>
-      <pubDate>Sun, 12 Oct 2014 23:14:00 +0800</pubDate>
-      
-      <guid>https://floatingcloud1983.github.io/post/2014/2014-10-12-critical-thinking/</guid>
-      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;本笔记结合《学问提问：批判性思维指南》&lt;a href=&#34;http://book.douban.com/subject/1504957/&#34;&gt;第七版&lt;/a&gt;，&lt;a href=&#34;http://book.douban.com/subject/20428922/&#34;&gt;第十版&lt;/a&gt;，&lt;a href=&#34;http://blog.vsharing.com/qsxiao&#34;&gt;萧秋水&lt;/a&gt;的&lt;a href=&#34;http://book.douban.com/review/4474858/&#34;&gt;PPT形式的笔记摘要&lt;/a&gt;，以及《&lt;a href=&#34;http://book.douban.com/subject/7057936/&#34;&gt;批判性思维.带你走出思维的误区&lt;/a&gt;》整理而成，在此对以上作者表示感谢。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;关于《学问提问：批判性思维指南》的版本选择。&lt;br&gt;
-个人推荐&lt;a href=&#34;http://book.douban.com/subject/20428922/&#34;&gt;第十版&lt;/a&gt;，翻译尚可，内容更完善。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;为什么要具备批判性思维&#34;&gt;为什么要具备批判性思维？&lt;/h2&gt;
-&lt;h3 id=&#34;获取真相&#34;&gt;获取真相&lt;/h3&gt;
-&lt;p&gt;在一个被泛滥信息包围的时代，我们需要从各种真真假假的信息中获取真相：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;电视上说&lt;/li&gt;
-&lt;li&gt;报纸上说&lt;/li&gt;
-&lt;li&gt;书籍上说&lt;/li&gt;
-&lt;li&gt;专家们说&lt;/li&gt;
-&lt;li&gt;网络上说&lt;/li&gt;
-&lt;li&gt;亲友们说&lt;/li&gt;
-&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;培养会独立思考的公民&#34;&gt;培养会独立思考的公民&lt;/h3&gt;
-&lt;p&gt;中国要真正进入现代文明，必须培养合格的公民。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;群众：依赖权威和力量解决问题&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;盲目听从时是顺民；&lt;/li&gt;
-&lt;li&gt;盲目反对时是刁民；&lt;/li&gt;
-&lt;li&gt;被煽动时是暴民。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;合格公民：依据理性和程序解决问题&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;知道在何时何地提出问题？&lt;/li&gt;
-&lt;li&gt;知道提出什么样的问题？&lt;/li&gt;
-&lt;li&gt;知道提出批判性问题是维权必需能力。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
+    <lastBuildDate>Wed, 08 Oct 2014 23:14:00 +0800</lastBuildDate><atom:link href="https://floatingcloud1983.github.io/tags/%E6%80%9D%E7%BB%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>科学理论之可证伪性</title>
       <link>https://floatingcloud1983.github.io/post/2014/2014-10-08-falsifiability/</link>

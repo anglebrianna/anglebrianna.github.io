@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>
-          利用 Synergy 在 Mac 与 Ubuntu 间共享键盘与鼠标 - 飘飘白云：所读，所观，所思
+          利用 Synergy 在多台电脑间共享键盘与鼠标 - 飘飘白云：所读，所观，所思
         </title>
     
 
@@ -28,9 +28,12 @@
 
 <meta name="mobile-web-app-capable" content="yes">
 
-<meta name="author" content="飘飘白云" /><meta name="description" content="利用 Synergy 在 Mac 与 Ubuntu 间共享键盘与鼠标" />
-<meta name="keywords" content="Synergy,, Mac,, Ubuntu" />
+<meta name="author" content="飘飘白云" />
+  <meta name="description" content="简介 Synergy 是一款相当不错的跨平台共享桌面的工具软件，我时常需要在 Mac，Ubuntu，Windows 等系统之间同步工作，因而利用这个这个工具能够大大提供生产效率。由于 Synergy 没有 UI 界面，程序员们开发了各种带界面的开源版本，如 QuickSynergy 或 SynergyKM 等。QuickSynergy 与 SynergyKM 可以混合搭配使用，即任选一个用作服务器，另一个用作客户端程序也是可以运行成功的。但是要注意各机器上的 Synergy 版本要一致，否则会出现不同版本不兼容导致无法链接通信！这个问题折腾来我好一会儿，通过安装 SynergyKM 查看日志才发现问题所在。
+在本例中，使用 QuickSynergy 作为客户端和服务器，作为服务器的机器安装 Ubuntu 系统，客户端机器安装 Mac 系统。
+" />
 
+  <meta name="keywords" content="Hugo, theme, jane" />
 
 
 
@@ -66,19 +69,25 @@
 
 
 
-<meta property="og:title" content="利用 Synergy 在 Mac 与 Ubuntu 间共享键盘与鼠标" />
-<meta property="og:description" content="利用 Synergy 在 Mac 与 Ubuntu 间共享键盘与鼠标" />
+<meta property="og:title" content="利用 Synergy 在多台电脑间共享键盘与鼠标" />
+<meta property="og:description" content="简介
+Synergy 是一款相当不错的跨平台共享桌面的工具软件，我时常需要在 Mac，Ubuntu，Windows 等系统之间同步工作，因而利用这个这个工具能够大大提供生产效率。由于 Synergy 没有 UI 界面，程序员们开发了各种带界面的开源版本，如 QuickSynergy 或 SynergyKM 等。QuickSynergy 与 SynergyKM 可以混合搭配使用，即任选一个用作服务器，另一个用作客户端程序也是可以运行成功的。但是要注意各机器上的 Synergy 版本要一致，否则会出现不同版本不兼容导致无法链接通信！这个问题折腾来我好一会儿，通过安装 SynergyKM 查看日志才发现问题所在。
+在本例中，使用 QuickSynergy 作为客户端和服务器，作为服务器的机器安装 Ubuntu 系统，客户端机器安装 Mac 系统。" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://floatingcloud1983.github.io/post/2014/2014-12-08-share-screen-with-synergy/" /><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2014-12-08T13:03:34+08:00" />
-<meta property="article:modified_time" content="2014-12-08T13:03:34+08:00" />
-<meta itemprop="name" content="利用 Synergy 在 Mac 与 Ubuntu 间共享键盘与鼠标">
-<meta itemprop="description" content="利用 Synergy 在 Mac 与 Ubuntu 间共享键盘与鼠标"><meta itemprop="datePublished" content="2014-12-08T13:03:34+08:00" />
-<meta itemprop="dateModified" content="2014-12-08T13:03:34+08:00" />
-<meta itemprop="wordCount" content="1641">
-<meta itemprop="keywords" content="工具," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="利用 Synergy 在 Mac 与 Ubuntu 间共享键盘与鼠标"/>
-<meta name="twitter:description" content="利用 Synergy 在 Mac 与 Ubuntu 间共享键盘与鼠标"/>
+<meta property="article:published_time" content="2014-12-08T23:14:00+08:00" />
+<meta property="article:modified_time" content="2014-12-08T23:14:00+08:00" />
+<meta itemprop="name" content="利用 Synergy 在多台电脑间共享键盘与鼠标">
+<meta itemprop="description" content="简介
+Synergy 是一款相当不错的跨平台共享桌面的工具软件，我时常需要在 Mac，Ubuntu，Windows 等系统之间同步工作，因而利用这个这个工具能够大大提供生产效率。由于 Synergy 没有 UI 界面，程序员们开发了各种带界面的开源版本，如 QuickSynergy 或 SynergyKM 等。QuickSynergy 与 SynergyKM 可以混合搭配使用，即任选一个用作服务器，另一个用作客户端程序也是可以运行成功的。但是要注意各机器上的 Synergy 版本要一致，否则会出现不同版本不兼容导致无法链接通信！这个问题折腾来我好一会儿，通过安装 SynergyKM 查看日志才发现问题所在。
+在本例中，使用 QuickSynergy 作为客户端和服务器，作为服务器的机器安装 Ubuntu 系统，客户端机器安装 Mac 系统。"><meta itemprop="datePublished" content="2014-12-08T23:14:00+08:00" />
+<meta itemprop="dateModified" content="2014-12-08T23:14:00+08:00" />
+<meta itemprop="wordCount" content="1603">
+<meta itemprop="keywords" content="Synergy,软件," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="利用 Synergy 在多台电脑间共享键盘与鼠标"/>
+<meta name="twitter:description" content="简介
+Synergy 是一款相当不错的跨平台共享桌面的工具软件，我时常需要在 Mac，Ubuntu，Windows 等系统之间同步工作，因而利用这个这个工具能够大大提供生产效率。由于 Synergy 没有 UI 界面，程序员们开发了各种带界面的开源版本，如 QuickSynergy 或 SynergyKM 等。QuickSynergy 与 SynergyKM 可以混合搭配使用，即任选一个用作服务器，另一个用作客户端程序也是可以运行成功的。但是要注意各机器上的 Synergy 版本要一致，否则会出现不同版本不兼容导致无法链接通信！这个问题折腾来我好一会儿，通过安装 SynergyKM 查看日志才发现问题所在。
+在本例中，使用 QuickSynergy 作为客户端和服务器，作为服务器的机器安装 Ubuntu 系统，客户端机器安装 Mac 系统。"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -472,7 +481,7 @@
       <article class="post">
         
         <header class="post-header">
-          <h1 class="post-title">利用 Synergy 在 Mac 与 Ubuntu 间共享键盘与鼠标</h1>
+          <h1 class="post-title">利用 Synergy 在多台电脑间共享键盘与鼠标</h1>
           
 
           <div class="post-meta">
@@ -499,7 +508,7 @@
     
 
     <div class="post-meta-category">
-        <a href="https://floatingcloud1983.github.io/categories/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/"> 工具软件 </a>
+        <a href="https://floatingcloud1983.github.io/categories/%E5%B7%A5%E5%85%B7/"> 工具 </a>
           
       </div>
 
@@ -518,20 +527,24 @@
         
         <div class="post-content">
           <h2 id="简介">简介</h2>
-<p>Synergy 是一款相当不错的跨平台共享桌面的工具软件，我时常需要在 Mac &amp; Ubuntu &amp; Windows 等系统之间同步工作，因而利用这个这个工具能够大大提供生产效率。由于 Synergy 没有 UI 界面，程序员们开发了各种带界面的开源版本，如 QuickSynergy 或 SynergyKM 等。QuickSynergy 与 SynergyKM 可以混合搭配使用，即任选一个用作服务器，另一个用作客户端程序也是可以运行成功的。但是要<strong>注意各机器上的 Synergy 版本要一致</strong>，否则会出现不同版本不兼容导致无法链接通信！这个问题折腾来我好一会儿，通过安装 SynergyKM 查看日志才发现问题所在。</p>
+<p><code>Synergy</code> 是一款相当不错的跨平台共享桌面的工具软件，我时常需要在 Mac，Ubuntu，Windows 等系统之间同步工作，因而利用这个这个工具能够大大提供生产效率。由于 <code>Synergy</code> 没有 UI 界面，程序员们开发了各种带界面的开源版本，如 <code>QuickSynergy</code> 或 <code>SynergyKM</code> 等。QuickSynergy 与 SynergyKM 可以混合搭配使用，即任选一个用作服务器，另一个用作客户端程序也是可以运行成功的。但是要<strong>注意各机器上的 Synergy 版本要一致</strong>，否则会出现不同版本不兼容导致无法链接通信！这个问题折腾来我好一会儿，通过安装 SynergyKM 查看日志才发现问题所在。</p>
 <p>在本例中，使用 QuickSynergy 作为客户端和服务器，作为服务器的机器安装 Ubuntu 系统，客户端机器安装 Mac 系统。</p>
 <h2 id="工具下载">工具下载</h2>
-<p>QuickSynergy 工具下载：<br>
-Mac 版 QuickSynergy 下载链接一：<a href="https://code.google.com/p/quicksynergy/">https://code.google.com/p/quicksynergy/</a> <br>
-Mac 版 QuickSynergy 下载链接二：<a href="http://sourceforge.net/projects/quicksynergy/">http://sourceforge.net/projects/quicksynergy/</a><br>
-Ubuntu 版 QuickSynergy 直接在 Ubuntu Software Center 中输入 QuickSynergy 查找安装即可。</p>
-<p>若使用 SynergyKM，可以从如下链接获取：<br>
-SynergyKM 下载链接：<a href="http://synergykm.com/">http://synergykm.com/</a></p>
+<p>QuickSynergy 工具下载：</p>
+<ul>
+<li>Mac 版 QuickSynergy 下载链接一：<a href="https://code.google.com/p/quicksynergy/">https://code.google.com/p/quicksynergy/</a></li>
+<li>Mac 版 QuickSynergy 下载链接二：<a href="http://sourceforge.net/projects/quicksynergy/">http://sourceforge.net/projects/quicksynergy/</a></li>
+<li>Ubuntu 版 QuickSynergy 直接在 Ubuntu Software Center 中输入 QuickSynergy 查找安装即可。</li>
+</ul>
+<p>若使用 SynergyKM，可以从如下链接获取：</p>
+<ul>
+<li>SynergyKM 下载链接：<a href="http://synergykm.com/">http://synergykm.com/</a></li>
+</ul>
 <h2 id="安装配置">安装配置</h2>
 <ol>
 <li>
-<p>Ubuntu 下的安装配置</p>
-<p>启动 QuickSynergy，显示界面有三个 Tab 页：</p>
+<p>Ubuntu 下的安装配置<br>
+启动 QuickSynergy，显示界面有三个 Tab 页：</p>
 <ul>
 <li>Share Tab：该页面用于服务器。作为服务器的机器在该界面配置受其控制的客户端机器的主机名，然后点击 Excute 启动服务器端（实际上是执行程序：<!-- raw HTML omitted -->/usr/bin/synergys<!-- raw HTML omitted -->）；</li>
 <li>Use Tag：该页面用于客户端。作为客户端的机器在该界面配置服务器机器的IP地址或主机名，然后点击 Excute 启动客户端端（实际上是执行程序：<!-- raw HTML omitted -->/usr/bin/synergyc<!-- raw HTML omitted -->）；</li>
@@ -558,25 +571,20 @@ Mac 版 QuickSynergy 界面比 Ubuntu 版要简洁一些，启动 QuickSynergy�
 </li>
 <li>
 <p>修改 key-Mapping<br>
-由于 Mac 机键盘与非 Mac 机键盘的物理按键不同，所以在 Ubuntu 机器上的 Ctrl + C 并不能在 Mac 系统上产生同样的效果，这就需要在 Synergy 的配置文件中添加按键映射关系。首先关闭 Ubuntu 系统上的 QuickSynergy（每次启动 QuickSynergy 都会重新生成新的 synergy.conf），再在作为服务器的机器上的 terminal 中输入命令：<!-- raw HTML omitted -->gedit ~/.quicksynergy/synergy.conf<!-- raw HTML omitted --> 打开 synergy.conf，修改其内容如下：</p>
+由于 Mac 机键盘与非 Mac 机键盘的物理按键不同，所以在 Ubuntu 机器上的 Ctrl + C 并不能在 Mac 系统上产生同样的效果，这就需要在 Synergy 的配置文件中添加按键映射关系。首先关闭 Ubuntu 系统上的 QuickSynergy（每次启动 QuickSynergy 都会重新生成新的 synergy.conf），再在作为服务器的机器上的 terminal 中输入命令：</p>
 </li>
 </ol>
-<pre tabindex="0"><code>section: screens
-	kesalin-ubuntu:
-	kesalin-iMac:
-		ctrl = meta
-		meta = ctrl
-		alt = alt
-		super = super
-end
-section: links
-	kesalin-ubuntu:
-		left = kesalin-iMac
-	kesalin-iMac:
-		right = kesalin-ubuntu
-end
-</code></pre><p>然后在 terminal 上输入命令：<!-- raw HTML omitted -->/usr/bin/synergys -c ~/.quicksynergy/synergy.conf<!-- raw HTML omitted --> 根据特定配置启动 synergys 服务端，就可以实现按键映射了。</p>
-<p>为了避免每次启动系统之后都需要敲入上面的启动命令，可以在 Ubuntu 的启动项中添加上面的命令：点击 Perference-&gt;Startup Applications Perferences-&gt;Add，在 command 栏输入：<!-- raw HTML omitted -->/usr/bin/synergys -c ~/.quicksynergy/synergy.conf<!-- raw HTML omitted --> 即可。注意由于每次启动 QuickSynergy 都会重新生成新的 synergy.conf 覆盖我们修改好的配置文件，所以最好将修改好的 synergy.conf 拷贝备份为 synergy-keymap.conf，然后使用命令：<!-- raw HTML omitted -->/usr/bin/synergys -c ~/.quicksynergy/synergy-keymap.conf<!-- raw HTML omitted --> 作为自启动命令。</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>gedit ~/.quicksynergy/synergy.conf
+</span></span></code></pre></div><p>打开 synergy.conf，修改其内容如下：
+<code>xml section: screens kesalin-ubuntu: kesalin-iMac: ctrl = meta meta = ctrl alt = alt super = super end section: links kesalin-ubuntu: left = kesalin-iMac kesalin-iMac: right = kesalin-ubuntu end </code></p>
+<p>然后在 terminal 上输入命令：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>/usr/bin/synergys -c ~/.quicksynergy/synergy.conf
+</span></span></code></pre></div><p>根据特定配置启动 synergys 服务端，就可以实现按键映射了。</p>
+<p>为了避免每次启动系统之后都需要敲入上面的启动命令，可以在 Ubuntu 的启动项中添加上面的命令：点击 Perference-&gt;Startup Applications Perferences-&gt;Add，在 command 栏输入：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>/usr/bin/synergys -c ~/.quicksynergy/synergy.conf
+</span></span></code></pre></div><p>即可。注意由于每次启动 QuickSynergy 都会重新生成新的 synergy.conf 覆盖我们修改好的配置文件，所以最好将修改好的 synergy.conf 拷贝备份为 synergy-keymap.conf，然后使用命令：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>/usr/bin/synergys -c ~/.quicksynergy/synergy-keymap.conf
+</span></span></code></pre></div><p>作为自启动命令。</p>
 <h2 id="参考链接">参考链接</h2>
 <p><a href="https://help.ubuntu.com/community/SynergyHowto">SynergyHowto</a><br>
 <a href="http://superuser.com/questions/90223/synergy-key-mapping">Synergy key mapping</a></p>
@@ -611,7 +619,8 @@ end
 
         <footer class="post-footer">
           <div class="post-tags">
-              <a href="https://floatingcloud1983.github.io/tags/%E5%B7%A5%E5%85%B7/">工具</a>
+              <a href="https://floatingcloud1983.github.io/tags/synergy/">Synergy</a>
+                <a href="https://floatingcloud1983.github.io/tags/%E8%BD%AF%E4%BB%B6/">软件</a>
                 
             </div>
 
