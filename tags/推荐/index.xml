@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>推荐 on 飘飘白云：所读，所观，所思</title>
-    <link>https://floatingcloud1983.github.io/tags/%E6%8E%A8%E8%8D%90/</link>
-    <description>Recent content in 推荐 on 飘飘白云：所读，所观，所思</description>
+    <title>推荐 on Brianna 的个人天地</title>
+    <link>https://anglebrianna.github.io/tags/%E6%8E%A8%E8%8D%90/</link>
+    <description>Recent content in 推荐 on Brianna 的个人天地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 12 Jul 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://floatingcloud1983.github.io/tags/%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 21:38:52 +0800</lastBuildDate><atom:link href="https://anglebrianna.github.io/tags/%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>值得一看的电影</title>
-      <link>https://floatingcloud1983.github.io/post/2007/2007-07-12-movies/</link>
-      <pubDate>Thu, 12 Jul 2007 00:00:00 +0000</pubDate>
+      <title>电影</title>
+      <link>https://anglebrianna.github.io/movie/all/</link>
+      <pubDate>Sun, 20 Aug 2023 21:38:52 +0800</pubDate>
       
-      <guid>https://floatingcloud1983.github.io/post/2007/2007-07-12-movies/</guid>
-      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;p&gt;看过的电影保守估计也应当在500部以上吧，只是我看电影有一大毛病，始终记不住电影名和人物名，只留有不灭的情节和人物形象烙印在脑中。多亏有了豆瓣，才让自己对看过的影片留有只言片语的感想，只是看过好电影未必都能勤快的记录，于是每每想再看时还得费上一番功夫找电影名，在这里整理一下最近重温和新看影片名单，以方便下回查阅。&lt;/p&gt;
-&lt;h2 id=&#34;清单&#34;&gt;清单&lt;/h2&gt;</description>
+      <guid>https://anglebrianna.github.io/movie/all/</guid>
+      <description>电影 弦动我心 忠犬八公 南极大冒险 子熊故事 柴犬奇迹物语 上帝也疯狂 阿凡达 音乐之声 爱丽丝漫游仙境 魔戒 哈利波特 查理与巧克力工厂 了不起的狐狸爸爸 天空之城</description>
+    </item>
+    
+    <item>
+      <title>书籍</title>
+      <link>https://anglebrianna.github.io/book/all/</link>
+      <pubDate>Sun, 20 Aug 2023 21:38:52 +0800</pubDate>
+      
+      <guid>https://anglebrianna.github.io/book/all/</guid>
+      <description>中文 伊娃·伊博森：13号站台的秘密 伊娃·伊博森：非常拯救计划 伊娃·伊博森：女巫新娘 伊娃·伊博森：非凡十二岁 哈利波特 纳尼亚传奇 绿野仙踪 夏洛的网</description>
     </item>
     
   </channel>
