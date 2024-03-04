@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>生活 on 飘飘白云：所读，所观，所思</title>
-    <link>https://floatingcloud1983.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
-    <description>Recent content in 生活 on 飘飘白云：所读，所观，所思</description>
+    <title>生活 on Brianna 的个人天地</title>
+    <link>https://anglebrianna.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on Brianna 的个人天地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Jun 2008 23:14:00 +0800</lastBuildDate><atom:link href="https://floatingcloud1983.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Dec 2023 22:14:00 +0800</lastBuildDate><atom:link href="https://anglebrianna.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>过好一个人的日子</title>
-      <link>https://floatingcloud1983.github.io/post/2008/2008-06-06-better-life-alone/</link>
-      <pubDate>Fri, 06 Jun 2008 23:14:00 +0800</pubDate>
+      <title>写给印老师的信</title>
+      <link>https://anglebrianna.github.io/post/2023/2023-letter-to-teacher/</link>
+      <pubDate>Wed, 27 Dec 2023 22:14:00 +0800</pubDate>
       
-      <guid>https://floatingcloud1983.github.io/post/2008/2008-06-06-better-life-alone/</guid>
-      <description>&lt;p&gt;一个人的生活要照顾好自己，保持自信，积极与乐观的心态，适度自恋，怀有梦想并坚持奋斗！&lt;/p&gt;</description>
+      <guid>https://anglebrianna.github.io/post/2023/2023-letter-to-teacher/</guid>
+      <description>&lt;p&gt;亲爱的印老师：&lt;/p&gt;
+&lt;p&gt;您好！时光飞逝，我来到小学学校已经四年了。在这四年里，您一直努力培养我，让我成为了一名优秀的大队委。现在，我想通过这封信和您分享一些事。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>偷出来的快乐</title>
+      <link>https://anglebrianna.github.io/post/2023/2023-steal-enjoy/</link>
+      <pubDate>Fri, 08 Dec 2023 22:14:00 +0800</pubDate>
+      
+      <guid>https://anglebrianna.github.io/post/2023/2023-steal-enjoy/</guid>
+      <description>&lt;p&gt;我想，大家应该都完成很多各式各样的游戏吧！我也玩过很多，其中，最让我记忆犹新的就是“偷石捉迷藏”了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>与众不同的生日</title>
+      <link>https://anglebrianna.github.io/post/2023/2023-birthday/</link>
+      <pubDate>Fri, 24 Nov 2023 22:14:00 +0800</pubDate>
+      
+      <guid>https://anglebrianna.github.io/post/2023/2023-birthday/</guid>
+      <description>&lt;p&gt;生活像什么？像一个万花筒。有时能使我快乐；有时能使我悲伤；有时能让我想起那个与众不同的生日。&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -10,28 +10,77 @@
   
   <url>
     <loc>https://anglebrianna.github.io/</loc>
-    <lastmod>2023-10-11T22:14:00+08:00</lastmod>
+    <lastmod>2023-12-27T22:14:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://anglebrianna.github.io/categories/</loc>
-    <lastmod>2023-10-11T22:14:00+08:00</lastmod>
+    <lastmod>2023-12-27T22:14:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://anglebrianna.github.io/post/</loc>
-    <lastmod>2023-10-11T22:14:00+08:00</lastmod>
+    <lastmod>2023-12-27T22:14:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://anglebrianna.github.io/tags/</loc>
-    <lastmod>2023-10-11T22:14:00+08:00</lastmod>
+    <lastmod>2023-12-27T22:14:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anglebrianna.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-12-27T22:14:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anglebrianna.github.io/post/2023/2023-letter-to-teacher/</loc>
+    <lastmod>2023-12-27T22:14:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anglebrianna.github.io/categories/%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2023-12-27T22:14:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anglebrianna.github.io/post/2023/2023-steal-enjoy/</loc>
+    <lastmod>2023-12-08T22:14:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anglebrianna.github.io/post/2023/2023-birthday/</loc>
+    <lastmod>2023-11-24T22:14:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anglebrianna.github.io/post/2023/2023-one-day-with-eisha/</loc>
+    <lastmod>2023-10-31T22:14:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anglebrianna.github.io/tags/%E6%83%B3%E8%B1%A1/</loc>
+    <lastmod>2023-10-31T22:14:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -51,15 +100,22 @@
   </url>
   
   <url>
-    <loc>https://anglebrianna.github.io/categories/%E5%86%99%E4%BD%9C/</loc>
+    <loc>https://anglebrianna.github.io/post/2023/2023-nine-q-writing/</loc>
     <lastmod>2023-10-11T22:14:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://anglebrianna.github.io/post/2023/2023-nine-q-writing/</loc>
-    <lastmod>2023-10-11T22:14:00+08:00</lastmod>
+    <loc>https://anglebrianna.github.io/tags/%E5%AE%B6%E5%BA%AD/</loc>
+    <lastmod>2023-10-09T22:14:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anglebrianna.github.io/post/2023/2023-family-zoo/</loc>
+    <lastmod>2023-10-09T22:14:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
